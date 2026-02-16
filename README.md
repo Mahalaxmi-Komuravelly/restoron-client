@@ -8,8 +8,8 @@ Built with React (Vite) and deployed on Vercel.
 
 ## 🚀 Live Demo
 
-🌐 Frontend: https://your-frontend-link.vercel.app  
-🔗 Backend API: https://your-backend-link.onrender.com  
+🌐 Frontend: https://restoron-client.vercel.app  
+🔗 Backend API: https://restoron-api.onrender.com  
 
 ---
 
@@ -77,7 +77,7 @@ restoron-client/
 
 Create a `.env` file in the root directory:
 
-VITE_API_URL=https://your-backend-link.onrender.com
+VITE_API_URL=https://restoron-api.onrender.com
 
 
 ⚠️ Do not commit your `.env` file.
